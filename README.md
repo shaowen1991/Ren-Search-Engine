@@ -7,8 +7,10 @@
 URL: http://cgi.soic.indiana.edu/~shaoren/ren-search.html
 
 ### Setting up the pages data in single-processor way by running shell script:
-You might need to install three gems: fast-stemmer, mechanize and nokogiri
+You might need to install three gems: fast-stemmer, mechanize and nokogiri.
+
 Ruby version required: at least 2.2.0
+
 ```shell
 	$ ./run_setup.sh
 ```
