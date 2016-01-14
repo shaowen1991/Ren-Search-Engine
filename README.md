@@ -50,7 +50,7 @@ Ruby version required: at least 2.2.0
 ```
 	P.S. The only difference between these two shell script is the way it deal with pagerank. 
 	P.S. Do not change the location of any file or directory, that will make program doesnt work.
-```
+
 
 ### The initial push is the first working version. I'll keep edit the code in the future as I learned something new.
 
